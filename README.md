@@ -1,2 +1,2 @@
-# Unity-NGUI_Grid
+# Unity-NGUI
 Unity NGUI Custom Component
